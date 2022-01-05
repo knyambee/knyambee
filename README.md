@@ -5,3 +5,5 @@ I am currently learning modern web application development with JavaScript with 
 I would like to collaborate on projects practising TDD to improve my collaboration and communication skills with fellow developers. 
 
 Remote opportunities are welcome, I am based in Lusaka Zambia, GMT+2. 
+
+Find me on [twitter](https://twitter.com/knyambee) | [Linkedin](https://www.linkedin.com/in/knyambe/)
