@@ -7,3 +7,4 @@ I would like to collaborate on projects practising TDD to improve my collaborati
 Remote opportunities are welcome, I am based in Lusaka Zambia, GMT+2. 
 
 Find me on [Twitter](https://twitter.com/knyambee) | [Linkedin](https://www.linkedin.com/in/knyambe/)
+
