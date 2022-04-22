@@ -6,5 +6,5 @@ Am always looking for ways to improve my craft and I find practices such as TDD,
 
 Need a hand with one of your projects, please get in touch. I would be happy to help in anyway I can. 
 
-Find me on [Twitter](https://twitter.com/knyambee) | [Linkedin](https://www.linkedin.com/in/knyambe/)
+Find me on [Twitter](https://twitter.com/knyambee) | [Linkedin](https://www.linkedin.com/in/knyambee/)
 
